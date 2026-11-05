@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\sortify.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\sortify.dir/objects.a @CMakeFiles\sortify.dir\objects1.rsp
+C:\msys64\ucrt64\bin\c++.exe -Wl,--whole-archive CMakeFiles\sortify.dir/objects.a -Wl,--no-whole-archive -o sortify.exe -Wl,--out-implib,libsortify.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sortify.dir\linkLibs.rsp

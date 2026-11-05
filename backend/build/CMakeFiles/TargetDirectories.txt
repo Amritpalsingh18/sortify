@@ -1,0 +1,3 @@
+D:/backup/sortify/backend/build/CMakeFiles/sortify.dir
+D:/backup/sortify/backend/build/CMakeFiles/edit_cache.dir
+D:/backup/sortify/backend/build/CMakeFiles/rebuild_cache.dir
